@@ -1,0 +1,2 @@
+日常练习
+目前在搞个基础的OpenGL，测试一下深度偏移glPolygonOffset
